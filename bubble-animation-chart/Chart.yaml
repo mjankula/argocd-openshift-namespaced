@@ -1,0 +1,4 @@
+apiVersion: v2
+name: bubble-animation-chart
+description: A Helm chart for the bubble animation app
+version: 0.1.0
